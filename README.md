@@ -1,4 +1,4 @@
-# IAM Policy Reader
+# Permiscope (IAM Policy Reader)
 
 Read a local AWS IAM policy JSON file and print a security summary: severity
 scoring, privilege-escalation detection, public-access flags, condition
